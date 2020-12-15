@@ -1,2 +1,1 @@
-# hello-world
-just another repository
+# Fox G1 files
